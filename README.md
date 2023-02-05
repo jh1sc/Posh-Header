@@ -4,8 +4,8 @@
 # Description
  - Make Sure When Using this Module always put this code at the start of your script!
  
- `iwr -Uri "https://raw.githubusercontent.com/jh1sc/Posh-Header/main/Posh-H.psm1" -OutFile "$env:temp\Posh-H.psm1"
- ipmo "$env:temp\Posh-H.psm1";Header`
+ `iwr -Uri "https://raw.githubusercontent.com/jh1sc/Posh-Header/main/Posh-H.psm1" -OutFile "$env:temp\Posh-H.psm1"`
+ `ipmo "$env:temp\Posh-H.psm1";Header`
 
  
 # What Posh-Header offers..💪
