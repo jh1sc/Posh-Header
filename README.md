@@ -35,13 +35,24 @@
 
 **Example Fonts**: 
 
-[FontIndex  : 0
-FontWidth  : 6
-FontHeight : 12
-FontFamily : 54
-FontWeight : 400
-FaceName   : Consolas]
+- FontIndex  : 0
+- FontWidth  : 6
+- FontHeight : 12
+- FontFamily : 54
+- FontWeight : 400
+- FaceName   : Consolas
 
+*Consolas*
+
+
+- FontIndex  : 0
+- FontWidth  : 8
+- FontHeight : 8
+- FontFamily : 48
+- FontWeight : 400
+- FaceName   : Terminal
+
+*Raster8x8*
 
 
 
