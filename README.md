@@ -11,6 +11,21 @@
  
 # What Posh-Header offers..💪
 
+### Header Func
+- All this function does is add all the basic assemblies, so you dont have to always add them to you scripts, which is why i made this module,
+- I found that it was just annoying and a waist of time!
+- So Anyways, I hope people Have some sort of use for this lmao
+
+**Modules It Imports**
+
+Microsoft.VisualBasic, PresentationCore, PresentationFramework, 
+System.Drawing, System.Windows.Forms, WindowsBase, WindowsFormsIntegration, 
+System
+
+
+
+
+
 ### Get Specfic KeyStroke, ASKS/AsyncKeyStoke 
 - Ok, I want to clarify and emphasize, that this is not a key logger
 - It looks like a key logger because It uses the same WinApi Function to get the keystroke.
