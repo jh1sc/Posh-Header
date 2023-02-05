@@ -35,6 +35,8 @@
 
 **Example Fonts**: 
 
+*Consolas*
+
 - FontIndex  : 0
 - FontWidth  : 6
 - FontHeight : 12
@@ -42,8 +44,8 @@
 - FontWeight : 400
 - FaceName   : Consolas
 
-*Consolas*
 
+*Raster8x8*
 
 - FontIndex  : 0
 - FontWidth  : 8
@@ -51,9 +53,6 @@
 - FontFamily : 48
 - FontWeight : 400
 - FaceName   : Terminal
-
-*Raster8x8*
-
 
 
 *Tip*: To get the some examples go to the github link and run the modules and commands to get your own set-font for what ever needs
