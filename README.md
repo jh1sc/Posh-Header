@@ -35,12 +35,12 @@
 
 **Example Fonts**: 
 
-`FontIndex  : 0
+[FontIndex  : 0
 FontWidth  : 6
 FontHeight : 12
 FontFamily : 54
 FontWeight : 400
-FaceName   : Consolas`
+FaceName   : Consolas]
 
 
 
